@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Blashyrkh2124 otherwise known as Wesley
+- 👀 I’m interested in coding, obviously!
+- 🌱 I’m currently learning using the Odin Project.
+- 📫 If you have a business opportunity, looking for someone eager to learn to code reach out to me!
